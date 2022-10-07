@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class="container pt-3">
-main1 ui 작업 ver1, ui 작업 ver 2, ui 작업 ver 3
+main1 ui 작업 ver1, ui 작업 ver 2, ui 작업 ver 3   
 </div>
 </body>
 </html>
